@@ -1,0 +1,11 @@
+{
+    "require": {
+        "codeception/specify": "*",
+        "codeception/verify": "*",
+        "codeception/base": "*",
+        "codeception/codeception": "*"
+    },
+    "require-dev": {
+        "yiisoft/yii2-faker": "*"
+    }
+}
