@@ -1,5 +1,5 @@
 # learning-yii2
-Monstermash app built for learning Yii 2
+Monster Mash app built for learning Yii 2
 
 You need to install lightbox asset
 ```
